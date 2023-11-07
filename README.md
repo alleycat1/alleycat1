@@ -23,16 +23,16 @@ Thanks a lot in advance!
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
@@ -177,19 +177,19 @@ Thanks a lot in advance!
       <br>Android
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
     </td>
   </tr>
-<!--   <tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
       <br>.Net
@@ -264,7 +264,7 @@ Thanks a lot in advance!
       <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="ps" />
       <br>PS
     </td>
-  </tr> -->
+  </tr>
 </table>
 </p>
 <hr>
