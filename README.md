@@ -39,10 +39,6 @@ Thanks a lot in advance!
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
@@ -61,6 +57,10 @@ Thanks a lot in advance!
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
     </td>
   </tr>
   <tr>
@@ -143,8 +143,8 @@ Thanks a lot in advance!
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
     </td>
   </tr>
   <tr>
