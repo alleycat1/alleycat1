@@ -13,7 +13,7 @@
 
 💥 Others: Linux/Unix, Apollo GraphQL, Adobe PhotoShop, Adobe After Effects, Microsoft Office
 
-★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Solana, Cosmwasm, Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
 
 Thanks a lot in advance! 
 
