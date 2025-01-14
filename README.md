@@ -1,7 +1,7 @@
 
-🚀 Software: C/C++, RUST, C#, Java, PHP, Python, Perl, Ruby, Big Data Engineering, Data Mining, Data Analysis, Reverse Engineering
+🚀 Software: C/C++, RUST, C#, Java, PHP, Python, Go, Ruby, Big Data Engineering, Data Mining, Data Analysis, Reverse Engineering
 
-🚀 Database: MySQL, PostgreSQL, Microsoft SQL Server, Oracle, SQLite, MongoDB, Redis, Neo4J, Hadoop
+🚀 Database: MySQL, PostgreSQL, Microsoft SQL Server, Oracle, SQLite, ClickHouse, MongoDB, Redis, Neo4J
 
 💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Web Design, Mobile App Design, E-commerce, WooCommerce
 
