@@ -1,3 +1,6 @@
+🤖 AI: AI Model Training, Fine Tuning, Prompt Engineering
+
+🔐 Cyber Security: Read Team, CTF, Penetration Testing, SOC Analysis
 
 🚀 Software: C/C++, RUST, C#, Java, PHP, Python, Go, Ruby, Big Data Engineering, Data Mining, Data Analysis, Reverse Engineering
 
